@@ -11,7 +11,7 @@ You'll need to run this in your repository directory, once per repository.
 
 Select the file types you'd like Git LFS to manage (or directly edit your .gitattributes). You can configure additional file extensions at anytime.
 ```
-git lfs track "*.psd"
+git lfs track "*.wav"
 ```
 Make sure .gitattributes is tracked
 
